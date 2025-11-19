@@ -1,0 +1,20 @@
+# 模型文件（太大，不能上传）
+model/
+*.joblib
+*.pkl
+*.bin
+*.pt
+*.pth
+
+# 数据集（通常较大）
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+
+# IDE
+.idea/
